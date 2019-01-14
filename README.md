@@ -1,7 +1,3 @@
 # gitstudy
 
-<<<<<<< HEAD
--rony1
-=======
--기성1
->>>>>>> kisung1
+-rony1 -기성1
